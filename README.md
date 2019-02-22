@@ -1,2 +1,0 @@
-# hzd
-Horizon Zero Dawn
